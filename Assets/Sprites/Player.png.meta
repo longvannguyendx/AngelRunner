@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7582c566ef6a0854192301cdcbaff90e
-timeCreated: 1434443237
+timeCreated: 1434449548
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -31,9 +31,9 @@ TextureImporter:
     21300048: Attack6
     21300050: Attack7
     21300052: Attack8
-    21300054: Shoot0
-    21300056: Shoot1
-    21300058: Shoot2
+    21300054: Cry0
+    21300056: Cry1
+    21300058: Cry2
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -349,7 +349,7 @@ TextureImporter:
       alignment: 7
       pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Shoot0
+    - name: Cry0
       rect:
         serializedVersion: 2
         x: 5
@@ -359,7 +359,7 @@ TextureImporter:
       alignment: 7
       pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Shoot1
+    - name: Cry1
       rect:
         serializedVersion: 2
         x: 84
@@ -369,7 +369,7 @@ TextureImporter:
       alignment: 7
       pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Shoot2
+    - name: Cry2
       rect:
         serializedVersion: 2
         x: 151
