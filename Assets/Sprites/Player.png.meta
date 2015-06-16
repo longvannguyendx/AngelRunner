@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 7582c566ef6a0854192301cdcbaff90e
+timeCreated: 1434443237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle0
+    21300002: Idle1
+    21300004: Idle2
+    21300006: Idle3
+    21300008: Idle4
+    21300010: Idle5
+    21300012: Run0
+    21300014: Run1
+    21300016: Run2
+    21300018: Run3
+    21300020: Run4
+    21300022: Run5
+    21300024: Jump0
+    21300026: Jump1
+    21300028: Jump3
+    21300030: Hurt0
+    21300032: Hurt1
+    21300034: Hurt2
+    21300036: Attack0
+    21300038: Attack1
+    21300040: Attack2
+    21300042: Attack3
+    21300044: Attack4
+    21300046: Attack5
+    21300048: Attack6
+    21300050: Attack7
+    21300052: Attack8
+    21300054: Shoot0
+    21300056: Shoot1
+    21300058: Shoot2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 463
+        width: 47
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 463
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 463
+        width: 44
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 463
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 463
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 463
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 375
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 375
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 375
+        width: 47
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 375
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 375
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 375
+        width: 47
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 285
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 38
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 286
+        width: 41
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hurt0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 59
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hurt1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 195
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hurt2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 195
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 53
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 103
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 103
+        width: 63
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 103
+        width: 64
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 103
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 103
+        width: 63
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 103
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shoot0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shoot1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 15
+        width: 53
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shoot2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
